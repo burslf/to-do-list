@@ -2,10 +2,9 @@
 A simple application made in React JS
 
 How to use it:
-
-  Clone the repo to your projects / dev folder
-  CD to the project folde
-  Run the command in the terminal :
+Clone the repo to your projects / dev folder.
+`cd` to the project folder.
+Run the command in the terminal :
 
     yarn install
   
